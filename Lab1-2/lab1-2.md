@@ -15,6 +15,7 @@
 </h1>
 
 <h5>Lab 1:</h5>
+<p></p>
 <p>1. Open the terminal and type:</p>
 <i>sudo useradd operator1</i>
 <br>
@@ -29,10 +30,13 @@
 <p>3. To add the password:</p>
 <i>sudo passwd operator1</i>
 <br>
+
 ![image](https://github.com/user-attachments/assets/c730a86f-4331-4efb-a95b-d25d80f3b951)
 
 <p> </p>
 <p>4. Follow the same steps for operator2 and operator3 as well:</p>
+<br>
+
 ![image](https://github.com/user-attachments/assets/733f053f-5599-4578-919d-b73b68368f0d)
 
 
@@ -41,9 +45,15 @@
 <i>sudo usermod -c "Operator1's comment" operator1</i>
 <br>
 
+![image](https://github.com/user-attachments/assets/1a7db540-f90d-471e-8385-5433990974cf)
+
+
 <p>2. To delete the user:</p>
 <i>sudo userdel -r operator</i>
 <br>
+
+![image](https://github.com/user-attachments/assets/7c12a3bb-94c7-4984-88eb-3ddd461c5169)
+
 
 <h5>Creating Practice Files and Directories:</h5>
 <p>Use the <i>touch</i> command to create sets of empty practice files:</p>
@@ -51,3 +61,6 @@
 
 <p>Use a single command to create all three subdirectories:</p>
 <i>mkdir friends family work</i>
+
+![image](https://github.com/user-attachments/assets/9893ade5-ffed-4ef7-badf-4581a6bc762a)
+
