@@ -1,5 +1,5 @@
 <h1>
-  🚀 Experiment - 5-6 🚀
+  🚀 LAB - 5-6 🚀
 </h1>
 
 <h3>
@@ -14,6 +14,8 @@
 
 <h1>
   Solution : 
+
+  Lab 5:
 </h1>
 
 <h5>
@@ -26,7 +28,8 @@
      </i>
   2. Navigate to the first line and manually edit the first column as required.
   3. Save and exit by pressing <i>CTRL+X</i>, then <i>Y</i> to confirm changes.
-  
+
+  lab 6:
 <h5>
   Using Vim:
 </h5>
